@@ -1,0 +1,15 @@
+.search-page-wrapper {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.search-form-wrapper{
+    display: flex;
+    align-content: center
+}
+
+.search-form-input{
+    margin-right: 10px
+}

@@ -1,0 +1,18 @@
+.card-Wrapper {
+    margin-bottom: 20px;
+}
+
+.card-visibility-private {
+    color: red;
+    display: inline-block
+}
+
+.card-visibility-public {
+    color: green;
+    display: inline-block
+}
+
+.card-link {
+    text-decoration: none;
+    color: #626262
+}
